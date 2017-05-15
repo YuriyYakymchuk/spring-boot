@@ -1,0 +1,1 @@
+Yuriy's Spring Boot application. Version: ${spring-kafka.version}
